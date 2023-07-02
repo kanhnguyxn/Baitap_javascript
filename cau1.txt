@@ -1,1 +1,5 @@
-
+Dữ liệu nguyên thuỷ và không nguyên thuỷ
+Dữ liệu nguyên thuỷ là kiểu cung cấp sẵn, lưu trữu các giá trị đơn giản,có giá trị riêng
+let str="hello"
+Dữ liệu không nguyên thuỷ: có giá trị tham chiếu
+let max={name:"Max",age:30}
