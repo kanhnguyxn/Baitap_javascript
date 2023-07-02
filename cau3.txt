@@ -1,0 +1,4 @@
+Khái niệm Event Driven, Synchronus, Asynchronus
+event driven nội dung được lưu trong bộ nhớ và chỉ kích hoạt những gì nó được kích hoạt 
+Synchrounus Các tác vụ thực hiện 1 cách tuần tự, nhiệm vụ sau phải đợi nhiệm vụ trước hoàn thành mới có thể bắt đầu
+ASynchronus Các nhiệm vụ không cần thực hiện thưo tuần tự thậm chí có thể thực hiện song song, mỗi nhiệm vụ không phụ thuộc vào nhiệm vụ trước đó
